@@ -1,6 +1,12 @@
+<!-- 헤더 배너 (물결 + 푸른 그라데이션 + 페이드 인 애니메이션) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=JisooHahn's%20Github&fontSize=45&fontAlignY=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=JisooHahn's%20Github&fontSize=45&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
 </div>
+
+<!-- 타이핑 애니메이션 텍스트 -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6dd5ed&center=true&vCenter=true&multiline=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Jisoo+Hahn;Backend+Developer+in+Progress;Spring+Boot+%7C+Java+%7C+MySQL+%7C+AWS;Welcome+to+my+coding+world!+" />
+</h2>
 </br>
 </br>
 </br>
