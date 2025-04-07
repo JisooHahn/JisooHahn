@@ -5,7 +5,7 @@
 </br>
 </br>
 
-## Profile
+## 🧑‍💻 Profile
 👩 한지수 <br>
 👶 2001.07.25 <br>
 📞 010-8789-9583 <br>
@@ -24,3 +24,7 @@
 | Communication | Management | Environment | API |
 | --- | --- | --- | --- |
 | ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)<br>![KakaoTalk](https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=000000)<br>![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br>![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)<br>![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)<br>![YAML](https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)<br>![Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)<br>![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) | ![JDBC](https://img.shields.io/badge/JDBC-003B57?style=for-the-badge&logoColor=white)<br>![SMTP-Gmail](https://img.shields.io/badge/SMTP--Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<br>![Kakao Login](https://img.shields.io/badge/Kakao%20Login-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=000000)<br>![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=cloudflare&logoColor=white) |
+
+<div>
+![JisooHahn's GitHub stats](https://github-readme-stats.vercel.app/api?JisooHahn=anuraghazra&theme=prussian&show_icons=true)
+</div>div>
