@@ -31,5 +31,5 @@
 </br>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=JisooHahn&theme=prussian&show_icons=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JisooHahn&layout=compact&theme=prussian" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JisooHah&layout=compact&theme=prussian" height="180"/>
 </div>
